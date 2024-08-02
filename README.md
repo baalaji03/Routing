@@ -1,1 +1,1 @@
-This is a exercise for react-router website which was designed by me. It's Guvi-Zen class Roadmap session: Day-26 and React : Day-6 Task.
+This is a exercise for react-router website which was designed by me.
